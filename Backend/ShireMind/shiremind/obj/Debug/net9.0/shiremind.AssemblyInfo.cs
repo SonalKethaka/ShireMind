@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shiremind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+391014aa122a3a72e1ea7a37cdff5321a9bb6bf5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a83c75b057b115c44a9a482782f78149c14c2c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("shiremind")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shiremind")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
