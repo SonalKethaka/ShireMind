@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shiremind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2c2c63228f69098a7f354b8539e24021a28066a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a30c8723f3aced6f610155ccecc8d27cd29fc822")]
 [assembly: System.Reflection.AssemblyProductAttribute("shiremind")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shiremind")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
