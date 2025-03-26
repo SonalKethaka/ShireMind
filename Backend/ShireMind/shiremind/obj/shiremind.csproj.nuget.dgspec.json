@@ -1,31 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RANDEEPA\\Desktop\\Academic\\ShireMind\\Backend\\ShireMind\\shiremind\\shiremind.csproj": {}
+    "/Users/sandaraapoorwa/Desktop/Shire mind/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RANDEEPA\\Desktop\\Academic\\ShireMind\\Backend\\ShireMind\\shiremind\\shiremind.csproj": {
+    "/Users/sandaraapoorwa/Desktop/Shire mind/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RANDEEPA\\Desktop\\Academic\\ShireMind\\Backend\\ShireMind\\shiremind\\shiremind.csproj",
+        "projectUniqueName": "/Users/sandaraapoorwa/Desktop/Shire mind/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj",
         "projectName": "shiremind",
-        "projectPath": "C:\\Users\\RANDEEPA\\Desktop\\Academic\\ShireMind\\Backend\\ShireMind\\shiremind\\shiremind.csproj",
-        "packagesPath": "C:\\Users\\RANDEEPA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RANDEEPA\\Desktop\\Academic\\ShireMind\\Backend\\ShireMind\\shiremind\\obj\\",
+        "projectPath": "/Users/sandaraapoorwa/Desktop/Shire mind/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj",
+        "packagesPath": "/Users/sandaraapoorwa/.nuget/packages/",
+        "outputPath": "/Users/sandaraapoorwa/Desktop/Shire mind/ShireMind/Backend/ShireMind/shiremind/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\RANDEEPA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sandaraapoorwa/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
