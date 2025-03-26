@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/sandaraapoorwa/.nuget/packages/": {}
+    "/Users/sonalkethaka/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sandaraapoorwa/Desktop/Shire mind/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj",
+      "projectUniqueName": "/Users/sonalkethaka/Documents/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj",
       "projectName": "shiremind",
-      "projectPath": "/Users/sandaraapoorwa/Desktop/Shire mind/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj",
-      "packagesPath": "/Users/sandaraapoorwa/.nuget/packages/",
-      "outputPath": "/Users/sandaraapoorwa/Desktop/Shire mind/ShireMind/Backend/ShireMind/shiremind/obj/",
+      "projectPath": "/Users/sonalkethaka/Documents/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj",
+      "packagesPath": "/Users/sonalkethaka/.nuget/packages/",
+      "outputPath": "/Users/sonalkethaka/Documents/ShireMind/Backend/ShireMind/shiremind/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sandaraapoorwa/.nuget/NuGet/NuGet.Config"
+        "/Users/sonalkethaka/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
