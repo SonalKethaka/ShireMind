@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sonalkethaka/Documents/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj": {}
+    "/Users/sonalkethaka/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj": {}
   },
   "projects": {
-    "/Users/sonalkethaka/Documents/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj": {
+    "/Users/sonalkethaka/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sonalkethaka/Documents/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj",
+        "projectUniqueName": "/Users/sonalkethaka/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj",
         "projectName": "shiremind",
-        "projectPath": "/Users/sonalkethaka/Documents/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj",
+        "projectPath": "/Users/sonalkethaka/ShireMind/Backend/ShireMind/shiremind/shiremind.csproj",
         "packagesPath": "/Users/sonalkethaka/.nuget/packages/",
-        "outputPath": "/Users/sonalkethaka/Documents/ShireMind/Backend/ShireMind/shiremind/obj/",
+        "outputPath": "/Users/sonalkethaka/ShireMind/Backend/ShireMind/shiremind/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sonalkethaka/.nuget/NuGet/NuGet.Config"
