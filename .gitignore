@@ -1,1 +1,9 @@
 .vs/
+# IDE & Rider files
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+obj/
+bin/
