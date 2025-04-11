@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using shiremind.Data;
 using shiremind.DTOs.Common;
 using shiremind.Models.Common;
-using Microsoft.EntityFrameworkCore;
 using BCrypt.Net;
 
 namespace shiremind.Controllers
@@ -45,12 +45,11 @@ namespace shiremind.Controllers
             var user = await _context.Users.FirstOrDefaultAsync(u => u.Username == dto.Username);
 
             if (user == null || !BCrypt.Net.BCrypt.Verify(dto.Password, user.PasswordHash))
-                return Unauthorized("Invalid credentials.");
+                return Unauthorized("Invalid username or password.");
 
             return Ok(new
             {
                 user.Id,
-                user.FullName,
                 user.Username,
                 user.Email,
                 user.Role
